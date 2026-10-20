@@ -1,0 +1,25 @@
+{
+  "name": "savvy-attendance-cpp",
+  "version-string": "1.0.0",
+  "dependencies": [
+    {
+      "name": "opencv4",
+      "features": [
+        "contrib"
+      ]
+    },
+    "sqlite3",
+    {
+      "name": "qtbase",
+      "default-features": false,
+      "features": [
+        "gui",
+        "widgets",
+        "network",
+        "sql-sqlite",
+        "jpeg",
+        "png"
+      ]
+    }
+  ]
+}

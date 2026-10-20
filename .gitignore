@@ -1,0 +1,39 @@
+# Build directories
+build/
+build_qt/
+out/
+bin/
+
+# Vcpkg package manager cache & installed packages
+vcpkg_installed/
+
+# Visual Studio & Compiler artifacts
+.vs/
+*.user
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.obj
+*.pdb
+*.ilk
+*.tlog
+*.exe.recipe
+*.lastbuildstate
+*.idb
+
+# Python virtual environment & cache
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Installer staging & downloaded installer dependencies
+installer_staging/
+vc_redist.x64.exe
+
+# Runtime generated data
+reports/*
+!reports/.gitkeep
+unknown_faces/*
+!unknown_faces/.gitkeep

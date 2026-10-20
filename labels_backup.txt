@@ -1,0 +1,361 @@
+0,Abha Singh,0709201029,10th
+1,Mahi patel,1008201129,10th
+2,Namrata Singh,2902201229,10th
+3,Aditi Singh Maurya,1903201129,10th
+4,Riya Soni,1904201129,10th
+5,Prithviraj Tiwari,1407201029,10th
+6,Devesh Tiwari,0510201129,10th
+7,Aryan Mishra,2701201128,10th
+8,Smit Patel,2505201129,10th
+9,Rishabh Patel,0807201129,10th
+10,Shivam Verma,2305201129,10th
+11,Utkarsh Singh  Gaharwar,0401201129,10th
+12,Sujal Jaiswal,0906201029,10th
+13,Sparsh Tiwari,2709201029,10th
+14,Utkarsh Wadhwani,2012201029,10th
+15,Prakash Patel,0711201029,10th
+16,Adarsh Tiwari,2901201129,10th
+17,Viraj Tiwari,3012201029,10th
+18,Yugank Tripathi,1012201129,10th
+19,Pratyush Dwivedi,2505201029,10th
+20,Vaibhav Tamrakar,2204201129,10th
+21,Puneet Chaturvedi,0912201129,10th
+22,Abhinav Singh,2405201129,10th
+23,Shail Shri,2808201123,10th
+24,anoopa takur,0410199613,Staff
+25,Anoopa thakur,0410199614,Staff
+26,Sujay singh,0000000000,Staff
+27,Ramkumar Pandey,0903641306,Staff
+28,Suryakant Dwivedi,0301198313,Staff
+29,Rekha Kushwaha,0210199313,Staff
+30,Rashmi Singh,0101198415,Staff
+31,Bhanu tripathi,0101199415,Staff
+32,Aditi Tiwari,1506199515,Staff
+33,adjeet singh,0507198416,Staff
+34,Reena vishkarma,0108198916,Staff
+35,Anupama Mishra,1811197820,Staff
+36,Sita Tiwari,1006199220,Staff
+37,Sudha Singh,1006197920,Staff
+38,Seema Singh,0702199620,Staff
+39,Ankita Pathak,0911200120,Staff
+40,Susmita Mishra,0112198720,Staff
+41,Jaya Shukla,2002200020,Staff
+42,Anjana Patel,3006199220,Staff
+43,Priya Baghel,1508200120,Staff
+44,vaisnavi pandey,2110201229,10th
+45,pranshi gupta,2109201129,10th
+46,Shashank Gupta,0109201629,4th
+47,Ritika Mishra,3112201629,4th
+48,Alak Pratap Singh,0805201829,4th
+49,Tejaswini Singh,1011201629,4th
+50,Shaurya Singh Patel,1902201729,4th
+51,Dakshit Harode,2601201729,4th
+52,Austric Kamlesh,2206201629,4th
+53,Om Mishra,0308201729,4th
+54,Rahul Dwivedi,2401200130,Staff
+55,Shivank Kushwaha,0405201230,9th
+56,Himanshu Wadhwani,2704201230,9th
+57,Ashutosh Pandey,0912201330,9th
+58,Aayu Rajak,1312201230,9th
+59,Luv Mishra,2607201230,9th
+60,Sanskar Mishra,2603201230,9th
+61,Nirmit Singh,2706201230,9th
+62,Athrv Singh,1710201230,9th
+63,Prateek Singh,2012201230,9th
+64,Naitik Singh,2907201230,9th
+65,Rudransh Singh,1907201130,9th
+66,Krishna Singh,1506201230,9th
+67,Rishabh Pandey,0704201230,9th
+68,Vivek Singh Yadav,1002201230,9th
+69,Khushi Patel,0310201230,9th
+70,Samriddhi Patel,1310201130,9th
+71,Nainshi Singh,0212201230,9th
+72,Akshita Singh,3105201230,9th
+73,Geetanjali Singh,1002201330,9th
+74,Swati Chaturvedi,0403201330,9th
+75,Shreya Sahu,2311201330,9th
+76,Aditi Singh,3007201230,9th
+77,Anshita Shukla,0511201130,9th
+78,Akshara Tiwari,1304201130,9th
+79,Ananya Pandey,1610201130,9th
+80,Abhigyan Sondhiya,1609201128,9th
+81,Naman Tamrkar,0804201401,7th
+82,Arun Sahu,1604201330,7th
+83,Aditya Rajak,2402201501,7th
+84,Ambikesh Shukla,2112201301,7th
+85,Arav Tripathi,1902201301,7th
+86,Tejas Vishwakarma,2410201301,7th
+87,Pawan kumar Awasthi,0208201401,7th
+88,Naveen Patel,0802201401,7th
+89,Aarambh Singh Baghel,2901201410,7th
+90,Aryan Patel,1904201301,7th
+91,Ansh Tripathi,2205201501,7th
+92,Devansh Singh,1809201401,7th
+93,Abhinav Mishra,1210201201,7th
+94,Shilpi Kushwaha,2101201401,7th
+95,Anshika Kushwaha,2702201301,7th
+96,Shreya Payasi,1703201401,7th
+97,Mamta Patel,1508201301,7th
+98,Sakshi Kushwaha,1107201401,7th
+99,Nivedita Payasi,1610201401,7th
+100,aastha singh,1707201401,6th
+101,aashtha singh,0717201401,7th
+102,arya patel,2611201301,7th
+103,mahi aditi singh,1203201401,7th
+104,shreya bairiha,1908201301,7th
+105,barsha patel,0901201301,7th
+106,Shreya Singh,2110201301,7th
+107,Jaya Shree,2610201301,7th
+108,Aditi Patel,1901201602,7th
+109,Avnee Sahu,2807201601,5th
+110,Aryadha Pandey,3112201601,5th
+111,Vaishnavi Tiwari,1706201501,5th
+112,Rishika Chaturvedi,0403201501,5th
+113,Siksha Mishra,0405201602,5th
+114,Deepti Shukla,2111201502,5th
+115,Shaishvi Tiwari,2209201602,5th
+116,Suramayi Pandey,1604201602,5th
+117,Shristi Khatik,1104201502,5th
+118,Vedika Shree,1710201502,5th
+119,Samarth Wadhwani,1011201602,5th
+120,Darsh Singh Baghel,2412201502,5th
+121,Rishi Sahu,2807201602,5th
+122,Ashish Patel,2510201602,5th
+123,Prince Singh,0311201602,5th
+124,Sarv Pandey,1708201602,5th
+125,Sahil Singh Baghel,2504201402,5th
+126,Devansh Dwivedi,1610201602,5th
+127,Raksh Singh,1908201602,5th
+128,Dharmik Shrivastav,2408201602,5th
+129,Anubhav Tiwari,3003201602,5th
+130,Ayushman Singh Kushwaha,2510201502,5th
+131,Subhansh Singh Tiwari,3107201502,5th
+132,Kartikey Mishra,0808201502,5th
+133,Shivay Chaurasiya,1208201602,5th
+134,Apeksha Singh,1812201503,6th
+135,Somi Patel,0507201503,6th
+136,Riyanshi Vishwakarma,1008201303,6th
+137,Pragya Pandey,2904201403,6th
+138,Subhanshi Singh Gaharwar,0409201503,6th
+139,Ananya Dubey,0809201403,6th
+140,Manjari Singh,2802201403,6th
+141,Arushi Patel,0301201503,6th
+142,Smriti Gupta,2610201603,6th
+143,Purnima Singh,2511201503,6th
+144,Anshika Singh,0505201603,6th
+145,Mrisha Gupta,2208201503,6th
+146,Shree Shukla,1410201503,6th
+147,Rashi Sahu,1911201503,6th
+148,Aditi Singh,1609201603,6th
+149,Yamya Mishra,0904201503,6th
+150,Somya Urmaliya,0311201403,6th
+151,Ayush Mishra,1408201503,6th
+152,Ashwin Soni,1203201403,6th
+153,Sanskar Patel,1505201503,6th
+154,Siddhart Pandey,0103201503,6th
+155,Rudra Pratap Singh,1706201403,6th
+156,Piyush Patel,0701201503,6th
+157,Shaurya Mishra,0305201504,6th
+158,Akshat Shukla,0305201505,6th
+159,Mukta Singh,0604201604,6th
+160,Anupam Gautam,2906201504,6th
+161,Surya Prakash Mishra,1405201405,6th
+162,Bodhi Dharman,2611201504,6th
+163,Aditya Patel,0405201504,6th
+164,Sahil Sahu,1204201504,6th
+165,Mayank Chaturvedi,1802201504,6th
+166,Sudhanshu Patel,0507201504,6th
+167,Arjun Prataph Singh Baghel,0211201404,6th
+168,Atharv Singh,0208201504,6th
+169,Akshat Dwivedi,2504201503,6th
+170,Prem Prajapati,1908201404,6th
+171,Mohit Kushwaha,0606201404,6th
+172,dhriti chaturvedi,2304201304,8th
+173,tanishka gupta,1505201304,8th
+174,Kashvi Gupta,0303201404,8th
+175,Shreya Patel,3005201304,8th
+176,Aarohi Singh,0608201304,8th
+177,Arya Bajpai,1711201203,8th
+178,Sanskriti Singh,0109201204,8th
+179,Divya Bharti,2610201304,8th
+180,Shailja Pandey,2112201403,8th
+181,Tripti Vishwakarma,1801201430,8th
+182,Harshita Singh,0203201304,8th
+183,Shaurya Tiwari,0303201403,8th
+184,Arman Singh,0102201304,8th
+185,Samar Singh,1405201403,8th
+186,Abhyansh Singh Baghel,1204201303,8th
+187,Ram Singh,0102201303,8th
+188,Abhishek Patel,1811201204,8th
+189,Samarth Soni,1206201304,8th
+190,Dhruv Tiwari,0803201404,8th
+191,Utkarsh Soni,2409201304,8th
+192,Ansh Singh Baghel,0303201305,8th
+193,Praful Mishra,1911201203,8th
+194,Ratnakar Chaturvedi,0112201204,8th
+195,Mayank Gupta,2607201204,8th
+196,Vijay Singh,0710201204,8th
+197,Hitesh Shiwani,0312201204,8th
+198,Ansh Patel,0801201304,8th
+199,Shaurya Pandey,2303201304,8th
+200,Rudra Mishra,2511201104,8th
+201,Shivbahadur Singh,2203201204,8th
+202,Suyash Pandey,0606201504,8th
+203,Shreya Sondhiya,1302201304,8th
+204,Prateek Singh Patel,3009201204,8th
+205,Ansh Gautam,2610201204,8th
+206,Prateek Sen,1104201304,8th
+207,Shaurya Singh,2602201304,8th
+208,Aditya Narayan Singh Parihar,2606201304,8th
+209,Rudrakash Singh,2411201104,8th
+210,Divyraj Singh Chandel,2611201204,8th
+211,Yash Mishra,0512201204,8th
+212,Yash Pandey,0801201305,8th
+213,Divyansh Singh,2409201104,8th
+214,aishwarya singh,3009201408,7th
+215,annapurna patel,1205201308,7th
+216,kavya singh,2412201308,7th
+217,vedika tamrakar,3001201408,7th
+218,anvi tamrakar,6003201408,7th
+219,saraswati singh,0408201308,7th
+220,divya chaturvedi,2307201408,7th
+221,rahul pandey,1803201408,7th
+222,ansh tripathi,1509201408,7th
+223,yogesh singh,1411201308,7th
+224,kartik pandey,0402201408,7th
+225,deepak raj sahu,1812201308,7th
+226,dev pratap singh,0905201308,7th
+227,shivam sahu,2302201408,7th
+228,udit pathak,0302201308,7th
+229,Rashi Mishra,2607200910,12th
+230,Harshita Patel,2705200810,12th
+231,Aditi Tiwari,1911200910,12th
+232,Shreya Mishra,3008200810,12th
+233,Riya Wadhwani,2410200910,12th
+234,Vaibhavi Tamrakar,2309200910,12th
+235,salini verma,2309200911,12th
+236,chitranshu singh,0403201010,12th
+237,riya patel,2601200810,12th
+238,pratigya singh,1910200810,12th
+239,tanu pandey,0106200910,12th
+240,gayatri awasthi,1905200910,12th
+241,taira bano,1309200910,12th
+242,sweaksha saksana,2502201010,12th
+243,riya singh,1911200610,12th
+244,vaishnavi singh,2301200910,12th
+245,Shlok Pandey,2907200810,12th
+246,Akash Patel,3007200910,12th
+247,Rishav Singh Patel,0403200910,12th
+248,Raj Tiwari,1505200910,12th
+249,Ashish Verma,2512200810,12th
+250,Ayush Singh,0308200910,12th
+251,Aryan Mishra,3108200810,12th
+252,Ayush Tiwari,0303200910,12th
+253,Archit Singh,2605200910,12th
+254,Yuvraj Verma,2402200910,12th
+255,Ajitesh Mishra,1508200810,12th
+256,Raunak Krishanani,1410200810,12th
+257,Rishabh Singh,2802201110,12th
+258,Teerth Tamrakar,0609200810,12th
+259,Ishan Shrivastava,1402200910,12th
+260,Manas Singh Tiwari,2008200910,12th
+261,Anjali Patel,2903200910,11th
+262,Shreya Gupta,2208201010,11th
+263,Charulata Raikwar,1802201010,11th
+264,Lavi Patel,0801201010,11th
+265,Priya Singh,2310200910,11th
+266,Ritika Patel,0411201010,11th
+267,Dipali Tiwari,0401201010,11th
+268,Dimpal Panjwani,0712200910,11th
+269,Priya Gupta,1502201010,11th
+270,Shree Pandey,0204201010,11th
+271,Vaidehi Tripathi,2910200910,11th
+272,Akriti Pandey,2606201010,11th
+273,Navya Pandey,0307201010,11th
+274,Manisha Shivani,0504200910,11th
+275,Saiba Singh,0203201010,11th
+276,Sankranti Patel,1401201010,11th
+277,Simran Singh,2706201010,11th
+278,Anshika Patel,1406201010,11th
+279,Anushka Sahu,1408201810,4th
+280,Anshika Singh,2808201810,4th
+281,Akshita Singh,0105201710,4th
+282,Divyanshi Yadav,0609201710,4th
+283,Ashi Mishra,2209201710,4th
+284,Anshika Mishra,2904201710,4th
+285,Pratibha Patel,2401201610,4th
+286,Purvi Mishra,2311201810,4th
+287,Shrishti Rajak,3006201810,4th
+288,Jay Shree Pandey,0409201710,4th
+289,Aarushi Soni,0511201710,4th
+290,Mahi Singh,3001201810,4th
+291,janvi mishra,1203201710,4th
+292,shruti tiwari,1907201710,4th
+293,adamya singh parihar,0105201711,4th
+294,sastwik shukla,1108201710,4th
+295,sranap tiwari,2401201810,4th
+296,naman sahu,0808201610,4th
+297,divyansh singh baghel,3112201710,4th
+298,saurya singh parihar,0808201710,4th
+299,akshansh singh bais,0405201710,4th
+300,Astik Chaturvedi,1204201610,5th
+301,Pragati Singh,2209201610,5th
+302,Shlok Tripathi,0704201510,5th
+303,Shaurya Tiwari,0501201610,5th
+304,Utkarsh Mishra,0306201610,5th
+305,Shashwat Bhurtiya,1804201610,5th
+306,Richa Tiwari,2408201510,7th
+307,Anshika Kushwaha,2702201310,7th
+308,Pankhudi Aswani,3108201410,7th
+309,Laksh Kushwaha,0911201510,7th
+310,Aniket Dwivedi,2908201010,11th
+311,Akash Deep patel,1607201010,11th
+312,Lucky Mishra,2903201110,11th
+313,Anshita Singh,0809201010,11th
+314,Raj Singh,1501200910,11th
+315,Yash Gupta,0806201010,11th
+316,Pushkar Singh,0205201110,11th
+317,Sarthak Tamrakar,3001201010,11th
+318,Ayush Kumar Patel,3006201010,11th
+319,Akash Pandey,2107200810,11th
+320,Kartikey Singh Baghel,1110201010,11th
+321,Om Tripathi,2012201010,11th
+322,Sarvagya Soni,2711201010,11th
+323,Devansh Tiwari,3007201010,11th
+324,Prashant Singh,0802201010,11th
+325,Arvind Verma,1803201010,11th
+326,Prajjwal Naval,1806201510,6th
+327,Shaurya Tiwari,2606201610,6th
+328,Saumy Tripathi,1401201510,6th
+329,Vats Gupta,2212201510,6th
+330,Lakshya Pratap Singh Baghel,1703201510,6th
+331,Ashutosh Pandey,0203201610,6th
+332,Aditya Gupta,2806201510,6th
+333,Astha Chaturvedi,2601201610,6th
+334,Avni Mishra,0409201510,6th
+335,Varsha Yadav,1512201410,6th
+336,Siddharth Bhurtiya,2606201310,8th
+337,Abhay Mishra,2607201310,8th
+338,Yash Dwivedi,0207201010,8th
+339,Shiksha Shukla,0409201210,8th
+340,Parthvi Mishra,1105201310,8th
+341,Aditri Tiwari,2611201310,8th
+342,Srishti Mishra,1701201310,8th
+343,Arnav Dev Singh,2009201110,8th
+344,Ayush kumar patel,1006201302,9th
+345,Pratyush Tiwari,0211201102,9th
+346,Tanmay Tiwari,2807201402,9th
+347,Devraj Tiwari,1205201202,9th
+348,Abhay Kumar Patel,1204201202,9th
+349,Rishi Rajak,3103201202,9th
+350,Krishna Shukla,0510201302,9th
+351,Arpita Vishwakarma,3110201202,9th
+352,Kritika Singh,0510201202,9th
+353,Shalika Gautam,2911201102,9th
+354,vaibhav singh,2003201416,9th
+355,anurag patel,2907201216,9th
+356,sumit singh,0510201216,9th
+357,natik patel,2701201216,9th
+358,prabal singh,1211201216,9th
+359,akshat singh,2512201216,9th
+360,youvansh pandey,0212201216,9th

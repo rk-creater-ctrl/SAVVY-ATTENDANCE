@@ -1,0 +1,294 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: "Segoe UI", Arial, sans-serif;
+    background: #f5f7fb;
+    color: #172033;
+}
+
+a {
+    color: inherit;
+}
+
+.login-shell {
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    padding: 24px;
+}
+
+.login-panel {
+    width: min(420px, 100%);
+    background: #ffffff;
+    border: 1px solid #d8dee9;
+    border-radius: 8px;
+    padding: 28px;
+    box-shadow: 0 16px 40px rgba(23, 32, 51, 0.10);
+}
+
+.login-panel h1 {
+    margin: 0 0 6px;
+    font-size: 26px;
+}
+
+.login-panel label {
+    display: grid;
+    gap: 7px;
+    margin-top: 18px;
+    font-weight: 700;
+    color: #334155;
+}
+
+input,
+button {
+    font: inherit;
+}
+
+input {
+    width: 100%;
+    border: 1px solid #cbd5e1;
+    border-radius: 6px;
+    padding: 10px 12px;
+    background: #ffffff;
+    color: #172033;
+}
+
+button,
+.tab,
+.topbar a {
+    border: 0;
+    border-radius: 6px;
+    padding: 10px 14px;
+    background: #2563eb;
+    color: #ffffff;
+    font-weight: 700;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+button:hover,
+.tab:hover,
+.topbar a:hover {
+    background: #1d4ed8;
+}
+
+.topbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16px;
+    padding: 18px 28px;
+    background: #101827;
+    color: #ffffff;
+}
+
+.topbar h1 {
+    margin: 0;
+    font-size: 22px;
+}
+
+.topbar span {
+    color: #cbd5e1;
+}
+
+.topbar nav {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.page {
+    width: min(1440px, 100%);
+    margin: 0 auto;
+    padding: 24px;
+}
+
+.toolbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 14px;
+    margin-bottom: 18px;
+}
+
+.tabs,
+.date-form,
+.admin-form {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+}
+
+.tab {
+    background: #ffffff;
+    color: #334155;
+    border: 1px solid #d8dee9;
+}
+
+.tab.active {
+    background: #2563eb;
+    border-color: #2563eb;
+    color: #ffffff;
+}
+
+.metrics {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 14px;
+    margin-bottom: 18px;
+}
+
+.metrics article,
+.panel,
+.admin-tools {
+    background: #ffffff;
+    border: 1px solid #d8dee9;
+    border-radius: 8px;
+    box-shadow: 0 8px 26px rgba(23, 32, 51, 0.06);
+}
+
+.metrics article {
+    padding: 18px;
+}
+
+.metrics span {
+    display: block;
+    color: #64748b;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+.metrics strong {
+    font-size: 30px;
+    color: #0f766e;
+}
+
+.split {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 18px;
+    margin-bottom: 18px;
+}
+
+.panel {
+    margin-bottom: 18px;
+    overflow: hidden;
+}
+
+.panel-heading {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    padding: 15px 18px;
+    border-bottom: 1px solid #e2e8f0;
+    background: #fbfcfe;
+}
+
+.panel-heading h2 {
+    margin: 0;
+    font-size: 18px;
+}
+
+.panel-heading span {
+    color: #64748b;
+    font-weight: 700;
+}
+
+.table-wrap {
+    max-height: 440px;
+    overflow: auto;
+}
+
+.table-wrap.compact {
+    max-height: 320px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    text-align: left;
+    padding: 11px 12px;
+    border-bottom: 1px solid #e2e8f0;
+    white-space: nowrap;
+}
+
+th {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background: #eef2f7;
+    color: #334155;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+
+tr:hover td {
+    background: #f8fafc;
+}
+
+.empty,
+.muted {
+    color: #64748b;
+}
+
+.error {
+    color: #b91c1c;
+    background: #fee2e2;
+    border-radius: 6px;
+    padding: 10px 12px;
+}
+
+.notice {
+    color: #166534;
+    background: #dcfce7;
+    border-radius: 6px;
+    padding: 10px 12px;
+}
+
+.admin-tools {
+    padding: 12px 16px;
+    margin-bottom: 18px;
+}
+
+.admin-tools summary {
+    cursor: pointer;
+    font-weight: 800;
+    color: #334155;
+}
+
+.admin-form {
+    margin-top: 12px;
+}
+
+code {
+    background: #e2e8f0;
+    border-radius: 4px;
+    padding: 2px 5px;
+}
+
+@media (max-width: 920px) {
+    .topbar,
+    .toolbar {
+        align-items: stretch;
+        flex-direction: column;
+    }
+
+    .metrics,
+    .split {
+        grid-template-columns: 1fr;
+    }
+
+    .date-form input,
+    .date-form button {
+        width: 100%;
+    }
+}
