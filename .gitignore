@@ -30,6 +30,7 @@ __pycache__/
 
 # Installer staging & downloaded installer dependencies
 installer_staging/
+dist/
 vc_redist.x64.exe
 
 # Runtime generated data
